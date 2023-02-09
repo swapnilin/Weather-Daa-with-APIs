@@ -7,4 +7,4 @@ From
 
 to
 
-![CSV File](csv.jpg)
+![CSV File](FLAT.jpg)
